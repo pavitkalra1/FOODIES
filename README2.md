@@ -1,3 +1,36 @@
 # FOODIES
 
 ## Description
+ ### Here in this project which was assigned to me by the Internshala company to make a FOODSHALA website so basically this is food ordering website which i have named FOODIES and i have considered all the usecases that were provided to me while making this website
+ 
+ ## Technology  Used
+  - PHP
+  - MYSQL
+  - HTML
+  - CSS
+  - JAVASCRIPT
+  - JQUERY
+  - XAMPP Software
+  
+ ### I have replicated all the sql files from the database with this project 
+     - run all the sql queries from the files on phpmyadmin from xampp
+     - then create a folder in C:/xampp/htdocs and place all the files in it
+  ### Project Link
+       - localhost/folder_name/file_name
+   
+   ### Filenames
+       - login.php(single file for both restaurant and user login)
+       - 2 resistration.php files each for user and restaurant registration
+       - index.php (main page file)
+       - restaurant.php (for restaurant home page to add menu and manage orders)
+       - order.php (for users to place their order)
+       - menu.php (for displaying menu of the respective restaurant user clicked)
+   
+  
+  ![](ss1.PNG)
+  ![](ss2.png)
+  ![](ss3.png)
+  ![](ss4.png)
+  ![](ss5.png)
+  ![](ss7.png)
+  ![](ss8.png)
